@@ -1,0 +1,19 @@
+{
+  "name": "contact-demo",
+  "authors": [
+    "Anthonius Munthi <me@itstoni.com>"
+  ],
+  "description": "My Application Demo",
+  "main": "web/app_dev.php",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
